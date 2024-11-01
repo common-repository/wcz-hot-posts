@@ -1,0 +1,8 @@
+.new-wrapper { float: left; width: 100px; height: 100px; margin: 15px 0px 50px 0px; }
+.new-wrapper img {  padding: 3px; border: 1px solid #BBB; background: #eee; width: 75px; height: 75px; }
+.new-wrapper:hover {}
+.new-wrapper span { visibility: hidden; color:#1359AE; float:left; font-size:17px; font-weight:bold; height:46px; line-height:26px;  left:0; margin-top:92px; overflow:hidden; padding:0 10%; position:absolute; text-align:center; width:80% }
+.new-wrapper:hover span { visibility: visible; }
+.new-wrapper ul { visibility: hidden; position:absolute; margin-top: -100px; margin-left: 50px; }
+.new-wrapper ul img{ width: 45px; height: 45px; }
+.new-wrapper:hover ul { visibility: visible; }
